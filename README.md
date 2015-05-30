@@ -9,9 +9,6 @@ AppRate
 How to install and use
 ----------------------
 
-1. Put the AppRate [jar] in your `libs` folder or add AppRate as a library project.
-
-[jar]: AppRateDownloads
 
 2. Use AppRate as follows in your `MAIN` activity: 
 
